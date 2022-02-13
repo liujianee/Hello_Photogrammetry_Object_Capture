@@ -1,10 +1,12 @@
 # Hello_Photogrammetry_Object_Capture
 In this repo I'd like to share some of my trials in using Apple's [Object Capture API](https://developer.apple.com/augmented-reality/object-capture/). The repo mainly includes the raw data and the reconstructed objects, plus a [Blender project](https://drive.google.com/file/d/1qriUuoWLqQe-Mqqwu-0eKdlI5VoRz2mu/view?usp=sharing) where I composited a lovely scene using all the captured outputs.
 
-1. Rendered scene - color  
-<img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/blender/pinecone_crocs_bunny_color.png" width="75%">
+1. Rendered scene - color 
+<img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/blender/pinecone_crocs_bunny_color.png" width="75%"> 
+<img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/blender/pinecone_crocs_bunny_color2.png" width="75%"> 
 
-2. Rendered scene - solid  
+
+2. Rendered scene - solid 
 <img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/blender/pinecone_crocs_bunny_solid.png" width="75%">
 
 # Raw Data
