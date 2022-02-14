@@ -10,10 +10,12 @@ In this repo I'd like to share some of my trials in using Apple's [Object Captur
 <img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/blender/pinecone_crocs_bunny_solid.png" width="75%">
 
 # Raw Data
-1. [Pinecone](https://drive.google.com/drive/folders/1W4XtCP6u9JRz25FpSQ3_uVIkVVWndxvt?usp=sharing)
+1. [Pinecone](https://drive.google.com/drive/folders/1W4XtCP6u9JRz25FpSQ3_uVIkVVWndxvt?usp=sharing)  
+<img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/data/pinecone/IMG_3213.png" height="300"> <img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/data/pinecone/IMG_3223.png" height="300"> <img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/data/pinecone/IMG_3233.png" height="300"> <img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/data/pinecone/IMG_3243.png" height="300"> 
 2. [Walnut](https://drive.google.com/drive/folders/1YHNy7ObB1ofGbPAiVP5-e76v_o40_HUu?usp=sharing)
-3. [Crocs]
-4. [Bunny]
+3. Crocs
+4. [Bunny](https://drive.google.com/drive/folders/1gxjDfHMA74KM3TFzX91lHeL-n6oHO0jk?usp=sharing)   
+<img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/data/bunny/IMG_3403.png" height="300"> <img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/data/bunny/IMG_3413.png" height="300"> <img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/data/bunny/IMG_3423.png" height="300"> <img src="https://github.com/liujianee/Hello_Photogrammetry_Object_Capture/blob/main/data/bunny/IMG_3433.png" height="300">
 
 # Reconstructed Results
 1. [Pinecone](https://drive.google.com/file/d/1V_KARGXJFTEadSr3YBbzX_C_ySzci54R/view?usp=sharing). 
